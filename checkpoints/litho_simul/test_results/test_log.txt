@@ -1,0 +1,8 @@
+================ Test Results (Tue Jul 12 09:25:00 2022) ================
+================= General Test Results =================
+
+Test RMSE(xE-4):
+average: 262.24 max: 372.97 std: 47.77
+Test NRMSE(%%):
+average: 11.52 max: 18.86 std: 2.96
+

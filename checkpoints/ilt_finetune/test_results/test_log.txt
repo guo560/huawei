@@ -1,0 +1,121 @@
+================ Test Results (Tue Jul 12 09:29:33 2022) ================
+************ sample [0000] ************
+Mean squared L2 error(%): 0.13440
+EPEs of fake layout (unit: nm):
+contact 1: 12.5
+contact 2: 13.0
+contact 3: 9.5
+************ sample [0001] ************
+Mean squared L2 error(%): 0.21600
+EPEs of fake layout (unit: nm):
+contact 1: 6.0
+contact 2: 8.5
+contact 3: 8.5
+contact 4: 13.0
+contact 5: 10.5
+contact 6: 7.5
+contact 7: 6.0
+contact 8: 8.0
+************ sample [0002] ************
+Mean squared L2 error(%): 0.66560
+EPEs of fake layout (unit: nm):
+contact 1: 11.5
+contact 2: 8.5
+contact 3: 4.0
+contact 4: 3.5
+contact 5: 5.0
+contact 6: 2.5
+contact 7: 12.5
+contact 8: 4.0
+contact 9: 8.5
+contact 10: 13.0
+contact 11: 6.0
+contact 12: 9.0
+contact 13: 8.0
+contact 14: 8.0
+contact 15: 14.0
+contact 16: 8.0
+contact 17: 16.0
+************ sample [0003] ************
+Mean squared L2 error(%): 0.12320
+EPEs of fake layout (unit: nm):
+contact 1: 15.5
+contact 2: 15.5
+contact 3: 8.0
+************ sample [0004] ************
+Mean squared L2 error(%): 0.22400
+EPEs of fake layout (unit: nm):
+contact 1: 3.5
+contact 2: 14.5
+contact 3: 7.0
+contact 4: 14.0
+contact 5: 7.0
+************ sample [0005] ************
+Mean squared L2 error(%): 0.63360
+EPEs of fake layout (unit: nm):
+contact 1: 8.5
+contact 2: 15.5
+contact 3: 4.5
+contact 4: 12.5
+contact 5: 3.5
+contact 6: 8.5
+contact 7: 5.0
+contact 8: 12.5
+contact 9: 7.5
+contact 10: 6.0
+contact 11: 0.5
+contact 12: 7.5
+contact 13: 9.0
+contact 14: 19.5
+contact 15: 8.0
+************ sample [0006] ************
+Mean squared L2 error(%): 0.27840
+EPEs of fake layout (unit: nm):
+contact 1: 14.0
+contact 2: 9.0
+contact 3: 13.0
+contact 4: 7.0
+contact 5: 13.5
+contact 6: 13.5
+contact 7: 7.0
+contact 8: 5.0
+************ sample [0007] ************
+Mean squared L2 error(%): 0.11200
+EPEs of fake layout (unit: nm):
+contact 1: 15.0
+contact 2: 7.0
+************ sample [0008] ************
+Mean squared L2 error(%): 0.35680
+EPEs of fake layout (unit: nm):
+contact 1: 5.0
+contact 2: 7.5
+contact 3: 6.0
+contact 4: 7.5
+contact 5: 6.5
+contact 6: 2.0
+contact 7: 6.5
+contact 8: 7.0
+contact 9: 10.0
+contact 10: 8.5
+contact 11: 7.0
+contact 12: 7.0
+contact 13: 6.0
+contact 14: 5.0
+************ sample [0009] ************
+Mean squared L2 error(%): 0.33120
+EPEs of fake layout (unit: nm):
+contact 1: 8.0
+contact 2: 7.5
+contact 3: 12.0
+contact 4: 9.5
+contact 5: 9.0
+contact 6: 7.0
+contact 7: 13.0
+contact 8: 14.0
+contact 9: 7.5
+contact 10: 6.0
+contact 11: 6.0
+================= General Test Results =================
+
+Test Mean Squared L2 Error(%):
+average: 0.30752 max: 0.66560 std: 0.18866
